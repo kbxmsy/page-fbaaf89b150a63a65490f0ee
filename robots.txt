@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--2es96gxscgyu.com/sitemap.xml
